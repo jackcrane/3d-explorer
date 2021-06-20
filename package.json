@@ -1,0 +1,11 @@
+{
+  "name": "3d-explorer",
+  "version": "1.0.0",
+  "description": "An aggregation of models from the best 3d printing providers around the internet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Crane",
+  "license": "MIT"
+}
